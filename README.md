@@ -1,5 +1,5 @@
 # g2fnet
-This repository contains the code for "[Reconstruction of Continuous Cosmological Fields from Discrete Tracers with Graph Neural Networks]"(https://arxiv.org/abs/2411.02496) - a contribution to NeurIPS-ml4ps-2024. It's a hybrid GNN-CNN architecture designed to infer the dark-matter and electron density fields directly from the galaxy catalogs.
+This repository contains the code for [Reconstruction of Continuous Cosmological Fields from Discrete Tracers with Graph Neural Networks](https://arxiv.org/abs/2411.02496) - a contribution to NeurIPS-ml4ps-2024. It's a hybrid GNN-CNN architecture designed to infer the dark-matter and electron density fields directly from the galaxy catalogs.
 
 ## Dependencies
 * torch 
